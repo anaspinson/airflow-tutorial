@@ -1,6 +1,8 @@
 Airflow tutorial
 ---
 
+[comment]: <> (Repo forked and cloned)
+
 This is the code for [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) playlist by Tuan Vu on Youtube
 
 ## Contents
